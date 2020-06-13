@@ -1,4 +1,3 @@
-import 'package:html/parser.dart';
 import 'package:txconnect/src/txconnect_models.dart';
 
 Map<String, dynamic> parse(Alert alert) {

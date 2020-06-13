@@ -1,6 +1,6 @@
 name: txconnect
 description: An Unoffical API for txConnect SCUC.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/Clemens-CAS/txconnect-api
 
 environment:

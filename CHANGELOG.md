@@ -9,3 +9,7 @@
 ## 1.0.2
 
 -   Added alert parser.
+
+## 1.0.3
+
+-   Refactor alert parser.
