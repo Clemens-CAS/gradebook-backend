@@ -4,4 +4,8 @@
 
 ## 1.0.1
 
--   Made dio and cookieJar private
+-   Made dio and cookieJar private.
+
+## 1.0.2
+
+-   Added alert parser.
