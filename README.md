@@ -1,4 +1,6 @@
+##txConnect API
 An Unoffical API for txConnect SCUC.
+https://pub.dev/packages/txconnect
 
 ## Usage
 
