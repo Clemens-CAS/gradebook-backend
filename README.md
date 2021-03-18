@@ -44,3 +44,6 @@ Basic features including attendance, grades and classes, and alerts.
 ## Expansion
 
 Post an issue if you would like to expand this project to multiple districts.
+
+## About
+This was made by Zack Umar for an IB CAS Project. The main org has the app it was used for. 
